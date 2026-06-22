@@ -1,7 +1,7 @@
 # Last match in file takes precedence.
 
 # Ping for all PRs
-* @Pcolik505
+* @Pcolik505 @Covral
 
 #  Ping for .cs files
 *.cs @Pcolik505 @HacksLua
